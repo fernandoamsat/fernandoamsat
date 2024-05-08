@@ -13,7 +13,7 @@ Decentralized Voting Application: Built a DApp on Ethereum for secure and transp
 Tokenization Platform: Developed a platform for tokenizing real-world assets using blockchain technology.
 Crypto Portfolio Tracker: Created a web application to track cryptocurrency investments and portfolio performance.
 📫 How to Reach Me
-Feel free to reach out to me via email at fernando.amsat@example.com or connect with me on LinkedIn.
+Feel free to reach out to me via email at fernandoamsat@gmail.com or connect with me on LinkedIn.
 
 😄 Pronouns
 He/Him
